@@ -1,0 +1,28 @@
+{
+    "companies":[
+        {
+            "name":"Apple",
+            "numberOfEmployees": 1000,
+            "ceo": "Tim",
+            "ratings": 9.7
+        },
+        {
+            "name":"Microsoft",
+            "numberOfEmployees": 300,
+            "ceo": null,
+            "ratings": 7.7
+        },
+        {
+            "name":"Smasung",
+            "numberOfEmployees": 3020,
+            "ceo": "Man",
+            "ratings": 8.7
+        },
+        {
+            "name":"Tesla",
+            "numberOfEmployees": 4200,
+            "ceo": "Elon",
+            "ratings": 9.2
+        }
+    ]
+}
